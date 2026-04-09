@@ -68,7 +68,7 @@ export default function Footer() {
   return (
     <>
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=DM+Sans:wght@300;400;500&display=swap');
+       
 
         .ss-footer { font-family: 'DM Sans', sans-serif; }
 

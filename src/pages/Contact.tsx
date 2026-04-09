@@ -74,7 +74,7 @@ export default function Contact() {
   return (
     <>
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=DM+Sans:wght@300;400;500;600&display=swap');
+       
 
         .cp-root { font-family: 'DM Sans', sans-serif; }
 

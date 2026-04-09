@@ -1415,8 +1415,7 @@ function CTA() {
             {/* 👑 BIG OWNER IMAGE */}
             <div className="relative flex justify-center mb-8">
 
-              {/* clean ring instead of blur */}
-              <div className="absolute w-36 h-36 sm:w-44 sm:h-44 rounded-full border border-[#D32F2F]/40" />
+              
 
               <motion.img
                 src={owner}
@@ -1575,7 +1574,7 @@ function Footer() {
 export default function Home() {
   return (
     <main className="bg-white text-[#111] overflow-x-hidden">
-      <Hero />
+      <Hero/>
       {/* <Marquee /> */}
       {/* <TrustBar /> */}
       <WelcomeStats />
